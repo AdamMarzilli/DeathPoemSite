@@ -2,9 +2,9 @@
     "<start>": "<5-line> % <7-line> % <5-line> % <7-line> % <7-line>",
     "<5-line>": "<1> <4> |<1> <3> <1> |<1> <1> <3> | <1> <2> <2> | <1> <2> <1> <1> | <1> <1> <2> <1> | <1> <1> <1> <2> | <1> <1> <1> <1> <1> | <2> <3> | <2> <2> <1> | <2> <1> <2> | <2> <1> <1> <1> | <3> <2> | <3> <1> <1> | <4> <1> | <5>",
     "<7-line>": "<1> <1> <5-line> | <2> <5-line> | <5-line> <1> <1> | <5-line> <2>",
-    "<1>": "I | ill | dreams| death | die | burn |tears | lord | sound | mind | smoke | will | weeds | leak | luck | task | bad | heart | born | rot | my| night | day | dawn | death | death | dusk| hell | smile | wine | sleep",
-    "<2>": "falling | myself | no one | my dreams | withered | poem | complete | heavy | bullets | body | ugly | again | white bones | fade away | steadfast | empty | toward | faces | feelings",
-    "<3>": "empty hearse| wandering | candlelight | unable | hesitate | mistaken | unweildy",
-    "<4>": "on a journey| dig the dust | so sad we fall | having died once | mere delusion, | undefeated",
-    "<5>": "in the springtime again | imagination | we are not alone | mediocrity | inappropriate | emotionally"
+    "<1>": "my | moving |end | loss | tomb | rests | sleep | ruin | grave| black | dim | drab | dull | dusk | faint | deep | leak | flow | doom | raw | cleak | keen | I | ill | dreams| death | die | burn | tears| rest | doze | die | dreams | tears | lord | sound | mind | smoke | will | weeds | leak | luck | task | bad | heart | born | rot | my| night | day | dawn | death | death | dusk| hell | smile | wine | sleep",
+    "<2>":  "afterlife | curtains | darkness | decease | demise | downfall | dying | ending | parting | cloudy | darkened | foggy | gloomy | misty | murky | somber | trickle| coma",
+    "<3>": "bereavement | departure | destruction | grim reaper | eternal rest | melancholy | other side | death poems | death is death | heartbroken",
+    "<4>": "casualty | dissolution | mortality | termination | I am dying",
+    "<5>": "I have seen winter | I have seen death| My sole thought shall be...| Over withered fields | I won't die again.| I miss you badly."
 }
