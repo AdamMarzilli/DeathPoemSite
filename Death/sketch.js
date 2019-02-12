@@ -1,8 +1,15 @@
 var font, grammar, lines, json;
-
+	var Twit = require('twit');
+var T = new Twit({
+consumer_key:         '...',
+consumer_secret:      '...',
+access_token:         '...',
+access_token_secret:  '...',
+})
 function preload() {
 
   json = loadStrings('grammar.json');
+
 }
 
 function setup() {
