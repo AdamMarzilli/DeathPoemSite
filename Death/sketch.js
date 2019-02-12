@@ -11,7 +11,7 @@ function setup() {
 
   textAlign(CENTER);
   grammar = new RiGrammar(json.join('\n'));
-  lines = ["click to", "generate", "a haiku", "hello", "yesy"];
+  lines = ["click to", "generate", "a haiku", "hello", "Test"];
 }
 
 function draw() {
@@ -20,9 +20,7 @@ function draw() {
   text(lines[0], width / 2, 50);
   text(lines[1], width / 2, 75);
   text(lines[2], width / 2, 100);
-	text(lines[3], width / 2, 125);
-	text(lines[4], width / 2, 150);
-
+	text(lines[3] + lines[4], width / 2, 150)
 }
 
 function mouseReleased() {
